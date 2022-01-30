@@ -1,0 +1,22 @@
+.Secondarytab{
+    background-color:#eeeee4;
+    margin-top: 10px;
+    display: flex;
+    overflow-x: auto;
+    border-radius:100px;
+  
+  
+  }
+  .Secondarytab> * {
+    background-color: #eeeee4;
+    width: 200px;
+    height: 40px;
+    margin: 2px;
+    text-align:center;
+    font-size: 15px;
+    cursor: pointer;
+    border: radius 100px;
+    /* border: none; */
+  
+  
+  }  

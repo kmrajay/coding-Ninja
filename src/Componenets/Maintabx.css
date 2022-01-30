@@ -1,0 +1,23 @@
+.maintab{
+  background-color:#eeeee4;
+ 
+  display: flex;
+  overflow-x: auto;
+  border-radius:100px;
+
+
+}
+.maintab> * {
+  background-color: #eeeee4;
+  width: 300px;
+  height: 60px;
+  margin: 2px;
+  text-align:center;
+  font-size: 20px;
+  cursor: pointer;
+  border: radius 100px;
+  /* border: none; */
+
+
+
+}
